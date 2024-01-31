@@ -1,0 +1,12 @@
+nav {
+    background-color: #373A3C;
+    color: #ffffff;
+}
+.nav-link {
+    color: #ffffff;
+}
+header {
+    background-image: url("../img/bg-hero.jpg");
+    height: 40rem;
+    background-size: cover;
+}
